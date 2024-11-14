@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I'm a full-stack developer passionate about web technologies and impactful projects. With a master's degree in Big Data and Artificial Intelligence, I explored data science using Jupyter Notebook and trained models in Python before focusing on development. 💻 Stack: My expertise spans Next.js, React, and NestJS on the web side, as well as WordPress with Gutenberg. As a freelancer and consultant, I've had the opportunity to work with clients like SNCF Connect, where I've contributed to large-scale projects. 🌱 Always on the lookout for new challenges, I enjoy creating sustainable and high-performance solutions.
+I'm a full-stack developer passionate about web technologies and impactful projects. With a master's degree in Big Data and Artificial Intelligence, I explored data science using Jupyter Notebook and trained models in Python before focusing on development. 
+💻 Stack: My expertise spans Next.js, React, and NestJS on the web side, as well as WordPress with Gutenberg. 
+As a freelancer and consultant, I've had the opportunity to work with clients like SNCF Connect, where I've contributed to large-scale projects. 
+🌱 Always on the lookout for new challenges, I enjoy creating sustainable and high-performance solutions.
 
 * 🌍  I'm based in Paris 🇫🇷
 * 🖥️  See my portfolio at [victordarcel.com](http://victordarcel.com)
